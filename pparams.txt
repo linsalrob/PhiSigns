@@ -1,0 +1,17 @@
+minl	16
+maxl	28
+mingc	30
+maxgc	80
+minbtm	30
+maxbtm	80
+minstm	30
+maxstm	80
+minnnh	30
+maxnnh	80
+mindg	-20
+minpl	400
+maxpl	2000
+dgn	1000
+gcclamp	y
+max3stb	y
+compl	y
