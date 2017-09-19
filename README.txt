@@ -16,25 +16,6 @@ PhiSiGns is intended for the phage biologists who are interested
 2) in designing primers on shared genes that can be used to discover unknown phages in the environment 
 
 
-AVAILABILTY
------------
-PhiSiGns is available at http://www.phantome.org/phisigns/ and http://phisigns.sourceforge.net/
-
-
-CURRENT VERSION
----------------
-PhiSiGns version 1.0
-
-
-COPYRIGHT
----------
-Copyright © 2011-2012, Bhakti Dwivedi
-
-
-BUG REPORTS
------------
-Please report any bug(s) to me <bhaktihd_at_gmail_dot_com>
-
 
 STANDALONE Vs. WEB-BASED VERSION
 --------------------------------
