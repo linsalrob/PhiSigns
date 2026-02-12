@@ -20,7 +20,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.13722934
     description: Zenodo repository of release
-repository-code: 'https://github.com/linsalrob/ProphagePredictionComparisons'
+repository-code: 'https://github.com/linsalrob/PhiSigns'
 abstract: >-
   A computational tool for the identification of phage signature genes and PCR primer design
 keywords:
